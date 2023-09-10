@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1694066185 source:c:\users\rifat\onedrive\desktop\employee management system\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<windows.h>
-
